@@ -1,0 +1,65 @@
+.body{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.bodygraf {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 12px;
+	font-style: italic;
+}
+
+img{
+	width: 700px;
+	margin-bottom: 0px;
+}
+.Caption{
+	color: black;
+	font-size: 12px;
+	margin-top: 0px;
+	font-family: "Basier", sans-serif;
+}
+
+.Headline{
+	font-family: "aclonica;", sans-serif;
+	font-style: bold;
+	font-size: 45px;
+	letter-spacing: 1px;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.addition{
+	font-family: "Basier", sans-serif;
+	font-weight: normal;
+	font-size: 15px;
+	letter-spacing: 1px;
+	text-align: left;
+}
+
+.byline{
+	font-family: "Basier", sans-serif;
+	font-weight: normal;
+	font-size: 15px;
+	letter-spacing: 1px;
+	text-align: left;
+}
+.Story{
+font-family: "Basier", sans-serif;
+	font-weight: normal;
+	font-size: 15px;
+	letter-spacing: 1px;
+	text-align: left;
+}
+.Viz1{
+	max-width: 1000px;
+}
+
+.Viz2{
+	width:50%;
+}
+iframe{
+	width: 50%;
+}
